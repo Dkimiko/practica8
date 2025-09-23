@@ -9,7 +9,7 @@ body{
 }
 
 .areaprincipal{
-    background-image: none;
+    background-image: url('img/banner.webp');
     background-repeat: no-repeat;
     width: 100%;
     height: auto;
